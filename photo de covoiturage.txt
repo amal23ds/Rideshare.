@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>LE titre de ma page</title>
+        <p>
+            Voici  l'activité de RideShare.:<br>
+            <img src="photo de covoiturage.jfif" alt="photo de covoiturage " />
+            </p>
+    </head>
+    <body>
+    </body>
+</html>
